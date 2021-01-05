@@ -1,0 +1,10 @@
+[App]
+Name = "ai.h2o.q.propensity"
+Version = "0.0.1"
+Title = "Fundraising_Propensity"
+Description = "Modeling of donor propensity"
+Category = "Marketing"
+Keywords = ["modeling"]
+
+[Runtime]
+Module = "q_propensity.run"

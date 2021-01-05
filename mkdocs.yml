@@ -1,0 +1,24 @@
+site_name: H2O Wave Propensity Application
+site_author: H2O.ai
+
+copyright: "© Copyright 2017-2020 H2O.ai"
+
+theme:
+ name: material
+ logo: img/h2oai.png
+ palette:
+     primary: 'black'
+     accent: 'blue'
+ icon:
+     repo: fontawesome/brands/github
+ features:
+    - navigation.expand
+
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+
+nav:
+    - Overview: index.md
